@@ -12,7 +12,7 @@
 // GNU Lesser General Public License for more details.
 //
 // You should have received a copy of the GNU Lesser General Public Licenseaaaaaa
-// along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.skjskjsjksssss
+// along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.skjskjsjksssssssss
 
 package triedb
 
